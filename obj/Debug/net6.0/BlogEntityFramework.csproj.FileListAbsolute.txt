@@ -61,3 +61,11 @@ C:\Dev\cursos-balta\BlogEntityFramework\obj\Debug\net6.0\refint\BlogEntityFramew
 C:\Dev\cursos-balta\BlogEntityFramework\obj\Debug\net6.0\BlogEntityFramework.pdb
 C:\Dev\cursos-balta\BlogEntityFramework\obj\Debug\net6.0\BlogEntityFramework.genruntimeconfig.cache
 C:\Dev\cursos-balta\BlogEntityFramework\obj\Debug\net6.0\ref\BlogEntityFramework.dll
+C:\Dev\cursos-balta\BlogEntityFramework\bin\Debug\net6.0\Humanizer.dll
+C:\Dev\cursos-balta\BlogEntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dev\cursos-balta\BlogEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Dev\cursos-balta\BlogEntityFramework\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Dev\cursos-balta\BlogEntityFramework\bin\Debug\net6.0\System.CodeDom.dll
+C:\Dev\cursos-balta\BlogEntityFramework\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Dev\cursos-balta\BlogEntityFramework\bin\Debug\net6.0\System.Text.Json.dll
+C:\Dev\cursos-balta\BlogEntityFramework\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
